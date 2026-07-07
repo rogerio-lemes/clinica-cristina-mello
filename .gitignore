@@ -25,3 +25,8 @@ Thumbs.db
 
 # Caches
 .cache/
+
+# Claude Code / session artifacts
+.claude/
+.agents/
+skills-lock.json
